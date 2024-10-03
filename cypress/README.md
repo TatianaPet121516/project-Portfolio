@@ -18,7 +18,7 @@ To run Cypress tests for this project, you need the following:
 3. Cypress (will be installed via npm)
 4. Browser requirements:
 
-  Google Chrome (default for Cypress)
+  Google Chrome (default for Cypress),
   Other supported browsers
 ## 2. How to Install
 Follow these steps to set up the project and install Cypress:
