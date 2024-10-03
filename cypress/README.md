@@ -4,12 +4,12 @@ This project is designed to test the functionality and behavior of the website A
 
 The goal is to ensure that key user flows on the website work as expected, including:
 
-Test Case 5: Register User with existing email
-Test Case 9: Search Product
-Test Case 18: View Category Products
-Test Case 19: View & Cart Brand Products
-Test Case 20: Search Products and Verify Cart After Login
-Test Case 21: Add review on product
+1. Test Case 5: Register User with existing email
+2. Test Case 9: Search Product
+3. Test Case 18: View Category Products
+4. Test Case 19: View & Cart Brand Products
+5. Test Case 20: Search Products and Verify Cart After Login
+6. Test Case 21: Add review on product
 ## 1. Requirements
 To run Cypress tests for this project, you need the following:
 
