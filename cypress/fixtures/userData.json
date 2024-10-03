@@ -1,0 +1,17 @@
+{
+  "name": "TestUser",
+  "password": "Abc123",
+  "firstName": "Test",
+  "lastName": "User",
+  "company": "TestCompany",
+  "address1": "Streets",
+  "address2": "Avenue5",
+  "country": "United States",
+  "state": "Alaska",
+  "city": "Juneau",
+  "zipcode": "00001",
+  "mobileNumber": "1234567890",
+  "birthDay": "01",
+  "birthMonth": "June",
+  "birthYear": "2000"
+}
