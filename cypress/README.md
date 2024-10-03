@@ -13,13 +13,13 @@ The goal is to ensure that key user flows on the website work as expected, inclu
 ## 1. Requirements
 To run Cypress tests for this project, you need the following:
 
-Node.js (version 12 or higher)
-npm (for package management)
-Cypress (will be installed via npm)
-Browser requirements:
+1. Node.js (version 12 or higher)
+2. npm (for package management)
+3. Cypress (will be installed via npm)
+4. Browser requirements:
 
-Google Chrome (default for Cypress)
-Other supported browsers
+  Google Chrome (default for Cypress)
+  Other supported browsers
 ## 2. How to Install
 Follow these steps to set up the project and install Cypress:
 
